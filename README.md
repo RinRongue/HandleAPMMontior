@@ -11,7 +11,7 @@
 
 ## 2.Directions
 
-2.1 Based on Microsoft XInput1_4.dll Api,so it will not support Switch and DS4 game handle, And other handles which do not support XInput1_4.dll.
+2.1 Based on Microsoft XInput1_4.dll Api, so it will not support Switch and DS4 game handle, and other handles which do not support XInput1_4.dll.
 
 2.2 Only one controller can be recognized, even if open multiple this app.
 

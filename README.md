@@ -30,3 +30,5 @@
 2.1 基于微软XInput1_4.dll Api，所以不支持Switch和DS4手柄，及其它不支持XInput1_4.dll的手柄。
 
 2.2 只能识别一个手柄，软件多开也不行。
+
+![](display.png)
